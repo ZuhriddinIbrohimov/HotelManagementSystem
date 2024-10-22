@@ -66,6 +66,7 @@ public class UserEntity {
         return birthday;
     }
 
+
     public void setBirthday(LocalDate birthday) {
         this.birthday = birthday;
     }
